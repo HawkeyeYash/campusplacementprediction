@@ -1,4 +1,4 @@
-# campusplacementprediction
+# Campus Placement Prediction
 
 To run the application:
 1) Download the repository
